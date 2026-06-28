@@ -1,0 +1,55 @@
+# Core Application & UI
+streamlit==1.35.0
+pandas==2.2.2
+
+# Google Cloud, Vertex AI & Agent Development Kit (ADK)
+google-cloud-aiplatform>=1.50.0
+vertexai>=1.65.0
+
+# Machine Learning & Forecasting
+# prophet==1.1.5  # Replaced by statsmodels ExponentialSmoothing (no stan_backend issues)
+statsmodels==0.14.6
+numpy==1.26.4
+scikit-learn==1.4.2
+xgboost>=2.0.0
+
+# Statistical Analysis (for advanced inventory optimization)
+scipy>=1.11.0
+
+# FastAPI Backend
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.3
+python-multipart==0.0.6
+openpyxl==3.1.5
+
+# Authentication
+passlib[bcrypt]==1.7.4
+bcrypt==4.0.1
+python-jose[cryptography]==3.5.0
+
+# PDF Export
+reportlab==4.4.10
+
+# Utilities
+python-dotenv==1.0.1
+requests==2.31.0
+pyyaml==6.0
+
+# Email & SMTP for Alert Service
+secure-smtplib==0.1.1
+
+# Data Visualization & Charts for Frontend
+plotly==5.18.0
+matplotlib==3.8.3
+seaborn==0.13.0
+
+# Google AI & Generative Models
+google-generativeai>=0.4.0
+
+# Firestore Database
+firebase-admin==6.4.0
+
+# Optional: Additional utilities
+python-dateutil==2.8.2
+pytz==2024.1

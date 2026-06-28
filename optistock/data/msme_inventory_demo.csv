@@ -1,0 +1,1801 @@
+SKU,Product_Name,Category,Current_Stock,Cost_Per_Unit,Supplier,Defect_Rate,Lead_Time_Days,Sales_Date,Quantity_Sold
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-11-30,13
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-01,6
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-02,9
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-03,8
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-04,9
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-05,6
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-06,12
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-07,17
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-08,4
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-09,8
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-10,7
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-11,6
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-12,11
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-13,11
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-14,8
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-15,7
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-16,12
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-17,6
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-18,10
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-19,5
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-20,8
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-21,8
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-22,9
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-23,4
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-24,8
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-25,9
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-26,11
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-27,15
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-28,12
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-29,9
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-30,8
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2025-12-31,9
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-01,12
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-02,11
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-03,12
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-04,14
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-05,15
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-06,5
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-07,7
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-08,7
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-09,5
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-10,12
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-11,7
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-12,11
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-13,3
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-14,6
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-15,6
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-16,7
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-17,11
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-18,12
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-19,7
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-20,3
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-21,5
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-22,13
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-23,12
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-24,15
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-25,17
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-26,10
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-27,8
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-28,5
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-29,9
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-30,6
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-01-31,10
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-01,7
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-02,9
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-03,11
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-04,10
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-05,11
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-06,10
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-07,8
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-08,10
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-09,12
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-10,10
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-11,7
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-12,4
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-13,12
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-14,16
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-15,8
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-16,6
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-17,4
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-18,6
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-19,4
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-20,7
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-21,16
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-22,8
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-23,9
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-24,8
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-25,4
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-26,8
+SKU-001,Basmati Rice 10kg,Groceries,45,650,AgroFoods Ltd,0.02,7,2026-02-27,8
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-11-30,5
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-01,3
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-02,5
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-03,9
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-04,5
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-05,4
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-06,5
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-07,9
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-08,7
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-09,4
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-10,3
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-11,8
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-12,6
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-13,7
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-14,9
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-15,7
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-16,5
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-17,5
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-18,7
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-19,4
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-20,11
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-21,8
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-22,2
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-23,6
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-24,3
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-25,6
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-26,2
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-27,7
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-28,5
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-29,4
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-30,5
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2025-12-31,6
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-01,3
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-02,3
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-03,5
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-04,9
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-05,2
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-06,6
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-07,7
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-08,8
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-09,4
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-10,5
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-11,7
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-12,1
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-13,8
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-14,2
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-15,4
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-16,5
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-17,5
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-18,6
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-19,5
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-20,6
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-21,5
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-22,8
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-23,5
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-24,8
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-25,6
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-26,2
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-27,3
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-28,7
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-29,5
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-30,10
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-01-31,5
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-01,2
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-02,7
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-03,9
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-04,4
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-05,3
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-06,10
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-07,7
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-08,9
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-09,3
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-10,5
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-11,11
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-12,7
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-13,4
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-14,4
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-15,9
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-16,7
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-17,4
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-18,6
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-19,2
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-20,7
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-21,5
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-22,9
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-23,5
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-24,3
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-25,9
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-26,5
+SKU-002,Sunflower Oil 5L,Groceries,18,780,Golden Oils Pvt Ltd,0.015,6,2026-02-27,4
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-11-30,2
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-01,3
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-02,1
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-03,6
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-04,2
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-05,4
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-06,1
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-07,3
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-08,0
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-09,1
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-10,3
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-11,1
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-12,2
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-13,2
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-14,7
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-15,6
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-16,1
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-17,1
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-18,4
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-19,5
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-20,5
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-21,1
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-22,5
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-23,2
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-24,7
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-25,3
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-26,3
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-27,5
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-28,6
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-29,2
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-30,4
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2025-12-31,3
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-01,1
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-02,4
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-03,4
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-04,8
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-05,1
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-06,2
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-07,3
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-08,1
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-09,3
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-10,7
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-11,1
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-12,4
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-13,3
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-14,8
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-15,5
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-16,2
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-17,3
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-18,8
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-19,4
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-20,1
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-21,2
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-22,3
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-23,2
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-24,6
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-25,1
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-26,3
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-27,6
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-28,1
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-29,4
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-30,2
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-31,3
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-01,6
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-02,1
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-03,4
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-04,5
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-05,1
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-06,5
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-07,7
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-08,4
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-09,2
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-10,3
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-11,0
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-12,3
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-13,4
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-14,6
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-15,3
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-16,1
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-17,3
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-18,1
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-19,1
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-20,5
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-21,6
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-22,2
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-23,3
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-24,2
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-25,5
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-26,4
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-02-27,3
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-11-30,5
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-01,3
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-02,6
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-03,6
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-04,7
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-05,6
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-06,6
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-07,4
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-08,1
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-09,6
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-10,2
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-11,3
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-12,4
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-13,4
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-14,3
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-15,7
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-16,3
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-17,5
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-18,2
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-19,3
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-20,1
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-21,5
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-22,4
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-23,3
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-24,7
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-25,4
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-26,7
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-27,5
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-28,2
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-29,1
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-30,6
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2025-12-31,2
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-01,3
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-02,5
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-03,4
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-04,4
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-05,7
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-06,5
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-07,3
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-08,8
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-09,6
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-10,3
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-11,3
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-12,6
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-13,6
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-14,0
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-15,3
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-16,5
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-17,4
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-18,3
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-19,3
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-20,7
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-21,3
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-22,3
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-23,3
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-24,6
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-25,3
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-26,6
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-27,2
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-28,7
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-29,4
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-30,4
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-01-31,1
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-01,5
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-02,7
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-03,4
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-04,3
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-05,4
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-06,4
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-07,4
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-08,1
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-09,2
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-10,4
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-11,4
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-12,5
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-13,5
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-14,1
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-15,4
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-16,3
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-17,3
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-18,6
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-19,3
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-20,3
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-21,2
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-22,6
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-23,4
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-24,3
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-25,4
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-26,5
+SKU-004,LED Bulb 12W,Electronics,12,120,BrightLite Corp,0.03,10,2026-02-27,6
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-11-30,2
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-01,2
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-02,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-03,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-04,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-05,2
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-06,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-07,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-08,2
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-09,3
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-10,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-11,2
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-12,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-13,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-14,2
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-15,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-16,3
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-17,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-18,2
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-19,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-20,2
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-21,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-22,2
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-23,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-24,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-25,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-26,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-27,2
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-28,3
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-29,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-30,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2025-12-31,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-01,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-02,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-03,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-04,2
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-05,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-06,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-07,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-08,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-09,4
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-10,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-11,2
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-12,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-13,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-14,2
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-15,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-16,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-17,2
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-18,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-19,3
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-20,2
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-21,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-22,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-23,2
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-24,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-25,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-26,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-27,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-28,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-29,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-30,3
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-01-31,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-01,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-02,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-03,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-04,3
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-05,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-06,2
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-07,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-08,4
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-09,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-10,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-11,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-12,2
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-13,2
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-14,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-15,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-16,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-17,3
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-18,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-19,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-20,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-21,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-22,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-23,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-24,0
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-25,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-26,1
+SKU-005,Extension Board 4-way,Electronics,60,320,PowerTech India,0.025,12,2026-02-27,1
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-11-30,2
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-01,2
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-02,7
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-03,5
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-04,7
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-05,7
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-06,3
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-07,6
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-08,3
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-09,6
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-10,7
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-11,2
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-12,4
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-13,8
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-14,9
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-15,7
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-16,4
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-17,5
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-18,7
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-19,5
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-20,2
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-21,3
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-22,10
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-23,7
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-24,4
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-25,6
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-26,9
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-27,4
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-28,9
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-29,9
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-30,10
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2025-12-31,8
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-01,7
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-02,7
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-03,6
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-04,10
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-05,4
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-06,7
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-07,5
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-08,6
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-09,9
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-10,7
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-11,8
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-12,3
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-13,2
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-14,4
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-15,2
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-16,4
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-17,8
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-18,5
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-19,8
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-20,6
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-21,4
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-22,9
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-23,6
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-24,6
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-25,4
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-26,2
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-27,6
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-28,9
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-29,3
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-30,2
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-01-31,4
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-01,8
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-02,4
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-03,10
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-04,6
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-05,8
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-06,5
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-07,8
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-08,5
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-09,3
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-10,13
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-11,9
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-12,8
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-13,4
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-14,7
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-15,2
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-16,7
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-17,10
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-18,5
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-19,3
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-20,8
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-21,9
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-22,5
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-23,7
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-24,7
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-25,2
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-26,5
+SKU-006,Notebook A4 Pack,Stationery,35,45,PaperPlus Traders,0.01,4,2026-02-27,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-11-30,3
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-01,3
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-02,3
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-03,5
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-04,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-05,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-06,3
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-07,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-08,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-09,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-10,6
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-11,4
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-12,1
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-13,6
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-14,1
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-15,3
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-16,1
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-17,3
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-18,4
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-19,3
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-20,3
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-21,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-22,4
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-23,4
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-24,1
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-25,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-26,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-27,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-28,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-29,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-30,4
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2025-12-31,1
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-01,1
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-02,1
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-03,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-04,1
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-05,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-06,3
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-07,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-08,1
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-09,3
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-10,0
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-11,0
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-12,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-13,3
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-14,0
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-15,3
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-16,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-17,3
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-18,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-19,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-20,3
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-21,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-22,3
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-23,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-24,0
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-25,1
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-26,3
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-27,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-28,3
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-29,1
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-30,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-01-31,0
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-01,1
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-02,1
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-03,0
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-04,4
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-05,6
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-06,4
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-07,4
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-08,4
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-09,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-10,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-11,1
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-12,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-13,0
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-14,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-15,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-16,3
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-17,1
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-18,0
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-19,1
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-20,3
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-21,1
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-22,1
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-23,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-24,5
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-25,4
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-26,2
+SKU-007,Ball Pen Blue (Box 10),Stationery,500,80,WriteWell Co,0.005,3,2026-02-27,2
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-11-30,5
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-01,3
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-02,1
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-03,0
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-04,4
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-05,0
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-06,3
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-07,1
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-08,3
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-09,2
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-10,5
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-11,3
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-12,4
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-13,2
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-14,2
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-15,3
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-16,1
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-17,2
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-18,4
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-19,6
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-20,4
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-21,1
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-22,4
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-23,4
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-24,1
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-25,5
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-26,2
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-27,1
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-28,4
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-29,3
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-30,3
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2025-12-31,6
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-01,4
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-02,9
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-03,3
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-04,2
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-05,4
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-06,5
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-07,5
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-08,2
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-09,6
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-10,2
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-11,1
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-12,1
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-13,3
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-14,7
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-15,3
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-16,2
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-17,5
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-18,2
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-19,4
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-20,1
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-21,3
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-22,8
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-23,3
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-24,5
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-25,6
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-26,5
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-27,4
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-28,3
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-29,4
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-30,0
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-01-31,8
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-01,2
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-02,4
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-03,0
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-04,2
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-05,6
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-06,4
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-07,5
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-08,1
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-09,5
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-10,1
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-11,2
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-12,1
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-13,4
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-14,3
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-15,1
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-16,3
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-17,2
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-18,2
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-19,1
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-20,3
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-21,2
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-22,3
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-23,3
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-24,5
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-25,6
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-26,3
+SKU-008,Hand Sanitizer 500ml,Healthcare,8,95,SafeHands Pharma,0.02,8,2026-02-27,5
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-11-30,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-01,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-02,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-03,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-04,2
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-05,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-06,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-07,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-08,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-09,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-10,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-11,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-12,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-13,3
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-14,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-15,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-16,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-17,3
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-18,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-19,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-20,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-21,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-22,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-23,3
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-24,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-25,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-26,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-27,2
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-28,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-29,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-30,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2025-12-31,2
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-01,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-02,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-03,3
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-04,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-05,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-06,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-07,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-08,2
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-09,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-10,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-11,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-12,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-13,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-14,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-15,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-16,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-17,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-18,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-19,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-20,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-21,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-22,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-23,2
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-24,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-25,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-26,2
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-27,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-28,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-29,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-30,3
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-01-31,2
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-01,4
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-02,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-03,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-04,2
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-05,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-06,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-07,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-08,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-09,2
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-10,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-11,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-12,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-13,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-14,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-15,2
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-16,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-17,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-18,2
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-19,3
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-20,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-21,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-22,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-23,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-24,2
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-25,1
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-26,0
+SKU-009,Face Mask N95 (Box 50),Healthcare,300,340,MedCare Supplies,0.015,6,2026-02-27,0
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-11-30,6
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-01,4
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-02,5
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-03,7
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-04,5
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-05,3
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-06,4
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-07,8
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-08,1
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-09,2
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-10,4
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-11,6
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-12,1
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-13,7
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-14,6
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-15,1
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-16,5
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-17,2
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-18,4
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-19,6
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-20,5
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-21,4
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-22,4
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-23,9
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-24,6
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-25,6
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-26,5
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-27,2
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-28,10
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-29,2
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-30,4
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2025-12-31,4
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-01,3
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-02,3
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-03,3
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-04,4
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-05,4
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-06,2
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-07,2
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-08,2
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-09,6
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-10,4
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-11,6
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-12,3
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-13,2
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-14,4
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-15,4
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-16,2
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-17,3
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-18,7
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-19,3
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-20,6
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-21,2
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-22,8
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-23,4
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-24,8
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-25,5
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-26,3
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-27,5
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-28,5
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-29,4
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-30,2
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-01-31,3
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-01,6
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-02,2
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-03,4
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-04,5
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-05,2
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-06,5
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-07,9
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-08,5
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-09,5
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-10,4
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-11,4
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-12,3
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-13,5
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-14,5
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-15,2
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-16,8
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-17,4
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-18,5
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-19,5
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-20,4
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-21,4
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-22,2
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-23,3
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-24,3
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-25,6
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-26,4
+SKU-010,Detergent Powder 2kg,Household,25,180,CleanHome Ltd,0.02,7,2026-02-27,4
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-11-30,8
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-01,7
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-02,8
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-03,9
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-04,7
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-05,4
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-06,11
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-07,9
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-08,9
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-09,6
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-10,5
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-11,6
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-12,5
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-13,15
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-14,6
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-15,4
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-16,3
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-17,6
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-18,6
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-19,2
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-20,6
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-21,4
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-22,7
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-23,2
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-24,3
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-25,5
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-26,4
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-27,10
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-28,10
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-29,6
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-30,7
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2025-12-31,7
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-01,8
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-02,4
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-03,11
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-04,5
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-05,5
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-06,7
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-07,11
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-08,6
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-09,3
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-10,8
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-11,11
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-12,4
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-13,8
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-14,10
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-15,8
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-16,9
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-17,5
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-18,12
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-19,7
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-20,10
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-21,4
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-22,7
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-23,10
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-24,8
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-25,8
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-26,8
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-27,4
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-28,8
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-29,9
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-30,3
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-01-31,0
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-01,9
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-02,6
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-03,4
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-04,8
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-05,11
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-06,2
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-07,4
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-08,4
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-09,8
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-10,4
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-11,4
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-12,5
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-13,5
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-14,11
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-15,8
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-16,4
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-17,5
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-18,6
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-19,8
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-20,5
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-21,6
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-22,9
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-23,4
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-24,4
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-25,3
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-26,2
+SKU-011,Toor Dal 2kg,Groceries,30,260,PulseKing Traders,0.01,5,2026-02-27,6
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-11-30,11
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-01,10
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-02,13
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-03,11
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-04,8
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-05,11
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-06,11
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-07,13
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-08,8
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-09,8
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-10,8
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-11,5
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-12,8
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-13,13
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-14,9
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-15,10
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-16,4
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-17,8
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-18,4
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-19,5
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-20,4
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-21,8
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-22,5
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-23,11
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-24,6
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-25,4
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-26,7
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-27,13
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-28,7
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-29,4
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-30,4
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2025-12-31,8
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-01,14
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-02,11
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-03,17
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-04,9
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-05,6
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-06,7
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-07,6
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-08,8
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-09,10
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-10,7
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-11,9
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-12,8
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-13,7
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-14,2
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-15,5
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-16,6
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-17,13
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-18,6
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-19,5
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-20,6
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-21,5
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-22,9
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-23,12
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-24,11
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-25,8
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-26,9
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-27,11
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-28,3
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-29,7
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-30,8
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-01-31,8
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-01,18
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-02,6
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-03,10
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-04,9
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-05,6
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-06,12
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-07,8
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-08,9
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-09,5
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-10,11
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-11,4
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-12,6
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-13,5
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-14,7
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-15,9
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-16,6
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-17,10
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-18,8
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-19,8
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-20,7
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-21,9
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-22,11
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-23,7
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-24,5
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-25,6
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-26,6
+SKU-012,Sugar 5kg,Groceries,55,220,SweetHarvest Co,0.01,4,2026-02-27,7
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-11-30,2
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-01,4
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-02,6
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-03,3
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-04,3
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-05,4
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-06,2
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-07,5
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-08,3
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-09,3
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-10,4
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-11,5
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-12,1
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-13,1
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-14,2
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-15,2
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-16,1
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-17,6
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-18,2
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-19,5
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-20,7
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-21,5
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-22,4
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-23,3
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-24,4
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-25,1
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-26,2
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-27,4
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-28,1
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-29,4
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-30,6
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2025-12-31,3
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-01,1
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-02,2
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-03,4
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-04,3
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-05,1
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-06,7
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-07,2
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-08,5
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-09,6
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-10,1
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-11,0
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-12,2
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-13,3
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-14,5
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-15,0
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-16,0
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-17,3
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-18,4
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-19,3
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-20,4
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-21,3
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-22,5
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-23,6
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-24,3
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-25,4
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-26,1
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-27,3
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-28,3
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-29,2
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-30,4
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-01-31,3
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-01,5
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-02,3
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-03,3
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-04,2
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-05,0
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-06,4
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-07,3
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-08,2
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-09,4
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-10,6
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-11,4
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-12,4
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-13,2
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-14,1
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-15,1
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-16,1
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-17,4
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-18,3
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-19,4
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-20,4
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-21,2
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-22,6
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-23,3
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-24,1
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-25,3
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-26,2
+SKU-013,Mobile Charger USB-C,Electronics,10,250,ChargeFast India,0.04,14,2026-02-27,2
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-11-30,2
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-01,3
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-02,2
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-03,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-04,2
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-05,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-06,5
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-07,3
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-08,3
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-09,2
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-10,2
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-11,0
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-12,2
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-13,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-14,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-15,2
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-16,3
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-17,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-18,2
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-19,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-20,2
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-21,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-22,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-23,3
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-24,3
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-25,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-26,0
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-27,3
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-28,3
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-29,3
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-30,0
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2025-12-31,0
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-01,0
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-02,4
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-03,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-04,3
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-05,0
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-06,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-07,4
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-08,0
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-09,2
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-10,4
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-11,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-12,0
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-13,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-14,2
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-15,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-16,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-17,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-18,3
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-19,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-20,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-21,3
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-22,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-23,2
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-24,0
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-25,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-26,3
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-27,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-28,4
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-29,2
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-30,0
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-01-31,4
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-01,2
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-02,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-03,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-04,3
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-05,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-06,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-07,3
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-08,0
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-09,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-10,5
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-11,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-12,6
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-13,4
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-14,2
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-15,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-16,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-17,3
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-18,2
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-19,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-20,4
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-21,2
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-22,1
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-23,3
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-24,2
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-25,4
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-26,4
+SKU-014,Bluetooth Earbuds,Electronics,5,899,SoundWave Tech,0.035,15,2026-02-27,1
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-11-30,5
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-01,5
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-02,3
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-03,5
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-04,5
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-05,4
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-06,4
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-07,3
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-08,2
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-09,2
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-10,4
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-11,1
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-12,3
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-13,1
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-14,7
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-15,3
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-16,2
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-17,6
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-18,0
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-19,6
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-20,5
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-21,3
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-22,4
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-23,4
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-24,2
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-25,4
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-26,3
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-27,7
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-28,2
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-29,7
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-30,3
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2025-12-31,2
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-01,0
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-02,1
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-03,4
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-04,6
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-05,2
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-06,4
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-07,2
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-08,3
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-09,6
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-10,3
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-11,1
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-12,3
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-13,4
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-14,2
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-15,1
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-16,2
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-17,2
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-18,6
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-19,6
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-20,2
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-21,2
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-22,2
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-23,6
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-24,1
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-25,7
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-26,1
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-27,2
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-28,3
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-29,0
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-30,3
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-01-31,4
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-01,5
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-02,2
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-03,2
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-04,6
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-05,3
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-06,1
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-07,4
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-08,4
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-09,6
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-10,1
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-11,5
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-12,0
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-13,2
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-14,3
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-15,4
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-16,5
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-17,5
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-18,1
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-19,5
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-20,4
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-21,3
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-22,3
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-23,3
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-24,5
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-25,1
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-26,2
+SKU-015,Phenyl Floor Cleaner 1L,Household,70,65,SparkleClean Mfg,0.01,5,2026-02-27,3
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-11-30,3
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-01,3
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-02,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-03,0
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-04,3
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-05,3
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-06,4
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-07,5
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-08,1
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-09,3
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-10,1
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-11,1
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-12,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-13,3
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-14,1
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-15,3
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-16,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-17,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-18,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-19,0
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-20,5
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-21,3
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-22,1
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-23,0
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-24,4
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-25,1
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-26,1
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-27,5
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-28,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-29,1
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-30,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2025-12-31,1
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-01,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-02,6
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-03,3
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-04,3
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-05,0
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-06,1
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-07,1
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-08,3
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-09,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-10,1
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-11,0
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-12,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-13,3
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-14,4
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-15,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-16,3
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-17,3
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-18,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-19,3
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-20,0
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-21,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-22,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-23,4
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-24,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-25,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-26,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-27,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-28,1
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-29,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-30,3
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-01-31,1
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-01,3
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-02,4
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-03,1
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-04,4
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-05,3
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-06,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-07,1
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-08,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-09,3
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-10,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-11,1
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-12,1
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-13,4
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-14,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-15,0
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-16,3
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-17,1
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-18,1
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-19,3
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-20,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-21,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-22,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-23,2
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-24,3
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-25,3
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-26,5
+SKU-016,Mosquito Repellent Coil,Household,150,40,SafeNight Products,0.02,6,2026-02-27,1
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-11-30,7
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-01,11
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-02,6
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-03,8
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-04,5
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-05,8
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-06,9
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-07,11
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-08,8
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-09,9
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-10,9
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-11,5
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-12,11
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-13,7
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-14,6
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-15,5
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-16,10
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-17,8
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-18,10
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-19,9
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-20,10
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-21,9
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-22,9
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-23,11
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-24,10
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-25,7
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-26,9
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-27,9
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-28,2
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-29,11
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-30,9
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2025-12-31,5
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-01,2
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-02,9
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-03,8
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-04,9
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-05,8
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-06,7
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-07,7
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-08,7
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-09,9
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-10,8
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-11,7
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-12,12
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-13,8
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-14,6
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-15,9
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-16,7
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-17,8
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-18,9
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-19,7
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-20,7
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-21,6
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-22,7
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-23,10
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-24,10
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-25,7
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-26,10
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-27,6
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-28,8
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-29,7
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-30,7
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-01-31,8
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-01,9
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-02,11
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-03,13
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-04,6
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-05,7
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-06,7
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-07,8
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-08,9
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-09,9
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-10,14
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-11,4
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-12,7
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-13,4
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-14,11
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-15,13
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-16,8
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-17,10
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-18,6
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-19,7
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-20,8
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-21,8
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-22,2
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-23,8
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-24,8
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-25,8
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-26,9
+SKU-017,Paracetamol Strip,Healthcare,20,25,GenericPharma Ltd,0.005,3,2026-02-27,4
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-11-30,4
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-01,1
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-02,4
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-03,3
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-04,2
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-05,3
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-06,1
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-07,3
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-08,3
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-09,1
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-10,1
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-11,2
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-12,5
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-13,6
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-14,2
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-15,3
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-16,5
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-17,5
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-18,0
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-19,3
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-20,3
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-21,1
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-22,1
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-23,0
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-24,3
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-25,2
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-26,1
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-27,6
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-28,0
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-29,1
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-30,3
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2025-12-31,2
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-01,2
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-02,6
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-03,3
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-04,3
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-05,5
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-06,1
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-07,2
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-08,1
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-09,3
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-10,5
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-11,4
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-12,2
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-13,3
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-14,3
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-15,5
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-16,1
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-17,4
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-18,0
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-19,2
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-20,2
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-21,1
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-22,4
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-23,5
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-24,2
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-25,4
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-26,4
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-27,2
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-28,2
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-29,3
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-30,3
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-01-31,3
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-01,5
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-02,7
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-03,3
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-04,4
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-05,2
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-06,5
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-07,1
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-08,1
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-09,1
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-10,2
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-11,4
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-12,2
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-13,4
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-14,1
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-15,3
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-16,5
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-17,4
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-18,1
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-19,2
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-20,2
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-21,7
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-22,2
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-23,3
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-24,3
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-25,6
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-26,2
+SKU-018,Printer Paper A4 Ream,Stationery,15,280,PaperPlus Traders,0.01,4,2026-02-27,2
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-11-30,4
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-01,8
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-02,5
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-03,5
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-04,7
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-05,6
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-06,6
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-07,9
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-08,1
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-09,3
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-10,4
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-11,5
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-12,4
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-13,6
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-14,4
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-15,5
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-16,5
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-17,5
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-18,6
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-19,4
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-20,9
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-21,8
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-22,3
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-23,5
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-24,5
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-25,2
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-26,6
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-27,5
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-28,7
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-29,2
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-30,3
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2025-12-31,3
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-01,7
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-02,5
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-03,15
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-04,8
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-05,6
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-06,4
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-07,6
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-08,5
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-09,4
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-10,7
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-11,12
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-12,3
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-13,6
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-14,1
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-15,6
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-16,1
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-17,4
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-18,6
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-19,2
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-20,4
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-21,6
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-22,7
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-23,8
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-24,2
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-25,8
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-26,6
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-27,3
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-28,7
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-29,4
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-30,1
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-01-31,8
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-01,9
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-02,5
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-03,8
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-04,8
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-05,6
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-06,12
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-07,6
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-08,3
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-09,9
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-10,1
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-11,9
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-12,4
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-13,6
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-14,3
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-15,5
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-16,6
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-17,2
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-18,8
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-19,5
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-20,4
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-21,6
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-22,5
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-23,5
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-24,2
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-25,3
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-26,5
+SKU-019,Dish Wash Liquid 500ml,Household,40,85,CleanHome Ltd,0.015,7,2026-02-27,2
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-11-30,2
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-01,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-02,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-03,2
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-04,3
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-05,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-06,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-07,2
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-08,2
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-09,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-10,3
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-11,2
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-12,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-13,2
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-14,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-15,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-16,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-17,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-18,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-19,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-20,2
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-21,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-22,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-23,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-24,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-25,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-26,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-27,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-28,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-29,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-30,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2025-12-31,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-01,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-02,2
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-03,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-04,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-05,2
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-06,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-07,2
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-08,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-09,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-10,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-11,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-12,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-13,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-14,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-15,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-16,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-17,2
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-18,2
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-19,2
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-20,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-21,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-22,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-23,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-24,2
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-25,4
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-26,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-27,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-28,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-29,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-30,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-01-31,2
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-01,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-02,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-03,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-04,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-05,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-06,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-07,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-08,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-09,2
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-10,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-11,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-12,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-13,2
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-14,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-15,3
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-16,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-17,2
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-18,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-19,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-20,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-21,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-22,2
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-23,3
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-24,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-25,1
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-26,0
+SKU-020,Green Tea Box 25 bags,Groceries,90,150,HerbalLeaf Exports,0.01,8,2026-02-27,1

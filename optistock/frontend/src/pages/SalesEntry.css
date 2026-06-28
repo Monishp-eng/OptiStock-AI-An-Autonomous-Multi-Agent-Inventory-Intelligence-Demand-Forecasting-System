@@ -1,0 +1,39 @@
+.sales-page {
+  padding: 32px;
+  max-width: 900px;
+}
+
+.sales-form-card {
+  margin-bottom: 24px;
+}
+
+.card-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+  color: #e2e8f0;
+}
+
+.card-title h2 {
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.sales-form {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr auto;
+  gap: 16px;
+  align-items: end;
+}
+
+@media (max-width: 768px) {
+  .sales-page {
+    padding: 16px;
+  }
+
+  .sales-form {
+    grid-template-columns: 1fr;
+  }
+}

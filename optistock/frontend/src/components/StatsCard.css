@@ -1,0 +1,186 @@
+.stats-card {
+  background: linear-gradient(135deg, rgba(30, 41, 59, 0.8) 0%, rgba(30, 27, 75, 0.6) 100%);
+  border-radius: 16px;
+  border: 1px solid rgba(99, 102, 241, 0.15);
+  padding: 24px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  backdrop-filter: blur(10px);
+  position: relative;
+  overflow: hidden;
+}
+
+.stats-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, transparent, var(--card-accent, #6366f1), transparent);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.stats-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3), 0 0 40px rgba(99, 102, 241, 0.1);
+  border-color: rgba(99, 102, 241, 0.3);
+}
+
+.stats-card:hover::before {
+  opacity: 1;
+}
+
+.stats-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+.stats-card-icon {
+  width: 56px;
+  height: 56px;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.stats-card-icon::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 14px;
+  background: inherit;
+  filter: blur(12px);
+  opacity: 0.5;
+  z-index: -1;
+}
+
+.stats-card--blue {
+  --card-accent: #3b82f6;
+}
+
+.stats-card--blue .stats-card-icon {
+  background: linear-gradient(135deg, rgba(59, 130, 246, 0.2) 0%, rgba(59, 130, 246, 0.1) 100%);
+  color: #60a5fa;
+  border: 1px solid rgba(59, 130, 246, 0.3);
+}
+
+.stats-card--green {
+  --card-accent: #10b981;
+}
+
+.stats-card--green .stats-card-icon {
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.2) 0%, rgba(16, 185, 129, 0.1) 100%);
+  color: #34d399;
+  border: 1px solid rgba(16, 185, 129, 0.3);
+}
+
+.stats-card--yellow {
+  --card-accent: #f59e0b;
+}
+
+.stats-card--yellow .stats-card-icon {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.2) 0%, rgba(245, 158, 11, 0.1) 100%);
+  color: #fbbf24;
+  border: 1px solid rgba(245, 158, 11, 0.3);
+}
+
+.stats-card--red {
+  --card-accent: #ef4444;
+}
+
+.stats-card--red .stats-card-icon {
+  background: linear-gradient(135deg, rgba(239, 68, 68, 0.2) 0%, rgba(239, 68, 68, 0.1) 100%);
+  color: #f87171;
+  border: 1px solid rgba(239, 68, 68, 0.3);
+}
+
+.stats-card--purple {
+  --card-accent: #8b5cf6;
+}
+
+.stats-card--purple .stats-card-icon {
+  background: linear-gradient(135deg, rgba(139, 92, 246, 0.2) 0%, rgba(139, 92, 246, 0.1) 100%);
+  color: #a78bfa;
+  border: 1px solid rgba(139, 92, 246, 0.3);
+}
+
+/* Success variant (alias for green) */
+.stats-card--success {
+  --card-accent: #10b981;
+}
+
+.stats-card--success .stats-card-icon {
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.2) 0%, rgba(16, 185, 129, 0.1) 100%);
+  color: #34d399;
+  border: 1px solid rgba(16, 185, 129, 0.3);
+}
+
+/* Danger variant (alias for red) */
+.stats-card--danger {
+  --card-accent: #ef4444;
+}
+
+.stats-card--danger .stats-card-icon {
+  background: linear-gradient(135deg, rgba(239, 68, 68, 0.2) 0%, rgba(239, 68, 68, 0.1) 100%);
+  color: #f87171;
+  border: 1px solid rgba(239, 68, 68, 0.3);
+}
+
+.stats-card-trend {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.trend--up {
+  background: rgba(16, 185, 129, 0.15);
+  color: #34d399;
+  border: 1px solid rgba(16, 185, 129, 0.3);
+}
+
+.trend--down {
+  background: rgba(239, 68, 68, 0.15);
+  color: #f87171;
+  border: 1px solid rgba(239, 68, 68, 0.3);
+}
+
+.trend--neutral {
+  background: rgba(100, 116, 139, 0.15);
+  color: #94a3b8;
+  border: 1px solid rgba(100, 116, 139, 0.3);
+}
+
+.stats-card-body {
+  display: flex;
+  flex-direction: column;
+}
+
+.stats-card-value {
+  font-size: 32px;
+  font-weight: 800;
+  color: #fff;
+  line-height: 1.2;
+  letter-spacing: -0.5px;
+}
+
+.stats-card-title {
+  font-size: 15px;
+  color: #94a3b8;
+  margin-top: 6px;
+  font-weight: 500;
+}
+
+.stats-card-subtitle {
+  font-size: 13px;
+  color: #64748b;
+  margin-top: 4px;
+}

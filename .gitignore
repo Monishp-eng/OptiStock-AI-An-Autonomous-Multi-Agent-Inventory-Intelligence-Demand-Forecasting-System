@@ -1,0 +1,46 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+*.venv
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node.js dependencies & builds
+node_modules/
+optistock/frontend/node_modules/
+optistock/frontend/build/
+optistock/frontend/dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# SQLite Databases & Logs
+*.db
+*.log
+firebase-debug.log*
+optistock.zip
+
+# Local Env Files
+.env
+.env.local
+.env.production
+.env.development
+.env.staging
+optistock/.env
+optistock/frontend/.env
+optistock/frontend/.env.production

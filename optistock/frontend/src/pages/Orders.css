@@ -1,0 +1,66 @@
+.orders-page {
+  padding: 32px;
+}
+
+.status-tabs {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.status-tab {
+  padding: 6px 16px;
+  border-radius: 20px;
+  border: 1px solid #334155;
+  background: transparent;
+  color: #94a3b8;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 500;
+  transition: all 0.2s;
+  text-transform: capitalize;
+  min-height: 34px;
+}
+
+.status-tab:hover,
+.status-tab.active {
+  background: linear-gradient(135deg, rgba(99, 102, 241, 0.2), rgba(139, 92, 246, 0.15));
+  border-color: #6366f1;
+  color: #e2e8f0;
+}
+
+.status-select {
+  border: 1px solid #334155;
+  border-radius: 6px;
+  padding: 4px 8px;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  background: #1e293b;
+}
+
+.status-pending  { color: #f59e0b; border-color: #f59e0b; }
+.status-ordered  { color: #60a5fa; border-color: #60a5fa; }
+.status-received { color: #34d399; border-color: #34d399; }
+.status-cancelled { color: #f87171; border-color: #f87171; }
+
+.form-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+.form-group-full {
+  grid-column: 1 / -1;
+}
+
+@media (max-width: 768px) {
+  .orders-page {
+    padding: 16px;
+  }
+
+  .form-grid {
+    grid-template-columns: 1fr;
+  }
+}

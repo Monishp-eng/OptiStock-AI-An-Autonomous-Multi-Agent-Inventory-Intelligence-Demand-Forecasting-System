@@ -1,0 +1,26 @@
+SKU,Product_Name,Category,Current_Stock,Cost_Per_Unit,Supplier,Defect_Rate,Lead_Time_Days,Sales_Date,Quantity_Sold
+SKU-001,Basmati Rice 10kg,Groceries,120,650,AgroFoods Ltd,0.02,7,2026-01-01,15
+SKU-001,Basmati Rice 10kg,Groceries,120,650,AgroFoods Ltd,0.02,7,2026-01-02,22
+SKU-001,Basmati Rice 10kg,Groceries,120,650,AgroFoods Ltd,0.02,7,2026-01-03,18
+SKU-001,Basmati Rice 10kg,Groceries,120,650,AgroFoods Ltd,0.02,7,2026-01-04,25
+SKU-001,Basmati Rice 10kg,Groceries,120,650,AgroFoods Ltd,0.02,7,2026-01-05,30
+SKU-002,Sunflower Oil 5L,Groceries,85,780,Golden Oils Pvt Ltd,0.015,6,2026-01-01,8
+SKU-002,Sunflower Oil 5L,Groceries,85,780,Golden Oils Pvt Ltd,0.015,6,2026-01-02,12
+SKU-002,Sunflower Oil 5L,Groceries,85,780,Golden Oils Pvt Ltd,0.015,6,2026-01-03,10
+SKU-002,Sunflower Oil 5L,Groceries,85,780,Golden Oils Pvt Ltd,0.015,6,2026-01-04,15
+SKU-002,Sunflower Oil 5L,Groceries,85,780,Golden Oils Pvt Ltd,0.015,6,2026-01-05,11
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-01,20
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-02,25
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-03,18
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-04,30
+SKU-003,Wheat Flour 5kg,Groceries,200,210,FreshGrain Suppliers,0.01,5,2026-01-05,22
+SKU-004,LED Bulb 12W,Electronics,150,120,BrightLight Co,0.03,10,2026-01-01,5
+SKU-004,LED Bulb 12W,Electronics,150,120,BrightLight Co,0.03,10,2026-01-02,8
+SKU-004,LED Bulb 12W,Electronics,150,120,BrightLight Co,0.03,10,2026-01-03,6
+SKU-004,LED Bulb 12W,Electronics,150,120,BrightLight Co,0.03,10,2026-01-04,10
+SKU-004,LED Bulb 12W,Electronics,150,120,BrightLight Co,0.03,10,2026-01-05,7
+SKU-005,Office Chair,Furniture,45,4500,Comfort Furniture,0.02,14,2026-01-01,2
+SKU-005,Office Chair,Furniture,45,4500,Comfort Furniture,0.02,14,2026-01-02,3
+SKU-005,Office Chair,Furniture,45,4500,Comfort Furniture,0.02,14,2026-01-03,1
+SKU-005,Office Chair,Furniture,45,4500,Comfort Furniture,0.02,14,2026-01-04,4
+SKU-005,Office Chair,Furniture,45,4500,Comfort Furniture,0.02,14,2026-01-05,2

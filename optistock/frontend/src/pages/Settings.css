@@ -1,0 +1,167 @@
+.settings-section {
+  margin-bottom: 32px;
+}
+
+.section-header {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 20px;
+}
+
+.section-header svg {
+  color: var(--accent-primary);
+  margin-top: 4px;
+}
+
+.section-header h2 {
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.section-header p {
+  font-size: 14px;
+  color: var(--text-secondary);
+  margin-top: 4px;
+}
+
+.settings-card {
+  background: var(--bg-secondary);
+  border-radius: var(--radius);
+  border: 1px solid var(--border-color);
+  padding: 24px;
+}
+
+.config-status {
+  margin-bottom: 20px;
+}
+
+.status-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 16px;
+  border-radius: var(--radius-sm);
+  font-weight: 500;
+}
+
+.status-row.success {
+  background: rgba(16, 185, 129, 0.1);
+  color: var(--accent-success);
+}
+
+.status-row.warning {
+  background: rgba(245, 158, 11, 0.1);
+  color: var(--accent-warning);
+}
+
+.config-details {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.config-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.config-item:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.config-label {
+  font-size: 14px;
+  color: var(--text-secondary);
+}
+
+.config-value {
+  font-size: 14px;
+  color: var(--text-primary);
+  font-weight: 500;
+}
+
+.config-value.status-online {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--accent-success);
+}
+
+.status-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--accent-success);
+  box-shadow: 0 0 8px rgba(16, 185, 129, 0.5);
+}
+
+.config-link {
+  color: var(--accent-primary);
+  text-decoration: none;
+}
+
+.config-link:hover {
+  text-decoration: underline;
+}
+
+.config-actions {
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border-color);
+}
+
+.config-help {
+  margin-top: 20px;
+  padding: 20px;
+  background: var(--bg-primary);
+  border-radius: var(--radius-sm);
+}
+
+.config-help h4 {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 12px;
+}
+
+.config-help p {
+  font-size: 13px;
+  color: var(--text-secondary);
+  margin-bottom: 12px;
+}
+
+.code-block {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  background: var(--bg-secondary);
+  padding: 16px;
+  border-radius: var(--radius-sm);
+  margin-bottom: 12px;
+}
+
+.code-block code {
+  font-family: monospace;
+  font-size: 13px;
+  color: var(--accent-primary);
+}
+
+.help-note {
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+.help-note a {
+  color: var(--accent-primary);
+}
+
+.lang-buttons {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}

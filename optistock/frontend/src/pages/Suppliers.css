@@ -1,0 +1,41 @@
+.suppliers-page {
+  padding: 32px;
+}
+
+.address-cell {
+  max-width: 200px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.action-btns {
+  display: flex;
+  gap: 6px;
+}
+
+.form-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+.form-group-full {
+  grid-column: 1 / -1;
+}
+
+.form-hint {
+  font-size: 11px;
+  color: #64748b;
+  font-weight: 400;
+}
+
+@media (max-width: 768px) {
+  .suppliers-page {
+    padding: 16px;
+  }
+
+  .form-grid {
+    grid-template-columns: 1fr;
+  }
+}

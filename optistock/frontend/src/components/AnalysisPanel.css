@@ -1,0 +1,363 @@
+.analysis-panel {
+  background: linear-gradient(135deg, rgba(30, 41, 59, 0.8) 0%, rgba(30, 27, 75, 0.6) 100%);
+  border-radius: 20px;
+  border: 1px solid rgba(99, 102, 241, 0.15);
+  padding: 28px;
+  height: fit-content;
+  backdrop-filter: blur(10px);
+}
+
+.analysis-panel.empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 60px 28px;
+  text-align: center;
+}
+
+.analysis-panel.empty-state svg {
+  color: #64748b;
+  margin-bottom: 20px;
+}
+
+.analysis-panel.empty-state h3 {
+  color: #fff;
+  margin-bottom: 8px;
+  font-size: 18px;
+}
+
+.analysis-panel.empty-state p {
+  color: #94a3b8;
+  margin-bottom: 24px;
+}
+
+.analysis-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 24px;
+}
+
+.analysis-title {
+  display: flex;
+  gap: 14px;
+}
+
+.analysis-title svg {
+  color: #a5b4fc;
+  margin-top: 4px;
+}
+
+.analysis-title h2 {
+  font-size: 20px;
+  font-weight: 700;
+  background: linear-gradient(135deg, #fff 0%, #a5b4fc 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.analysis-title p {
+  color: #94a3b8;
+  font-size: 14px;
+  margin-top: 4px;
+}
+
+/* Decision Card */
+.decision-card {
+  display: flex;
+  gap: 20px;
+  padding: 24px;
+  border-radius: 16px;
+  margin-bottom: 24px;
+}
+
+.decision-card.restock {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.15) 0%, rgba(245, 158, 11, 0.05) 100%);
+  border: 1px solid rgba(245, 158, 11, 0.3);
+}
+
+.decision-card.restock .decision-icon {
+  color: #fbbf24;
+  background: rgba(245, 158, 11, 0.15);
+  border: 1px solid rgba(245, 158, 11, 0.3);
+}
+
+.decision-card.hold {
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.15) 0%, rgba(16, 185, 129, 0.05) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.3);
+}
+
+.decision-card.hold .decision-icon {
+  color: #34d399;
+  background: rgba(16, 185, 129, 0.15);
+  border: 1px solid rgba(16, 185, 129, 0.3);
+}
+
+.decision-icon {
+  width: 64px;
+  height: 64px;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.decision-content {
+  flex: 1;
+}
+
+.decision-label {
+  font-size: 12px;
+  color: #64748b;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+
+.decision-value {
+  font-size: 26px;
+  font-weight: 800;
+  color: #fff;
+  margin: 6px 0 14px;
+}
+
+.confidence-bar {
+  height: 8px;
+  background: rgba(15, 23, 42, 0.6);
+  border-radius: 4px;
+  overflow: hidden;
+  margin-bottom: 8px;
+}
+
+.confidence-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #6366f1, #a855f7);
+  border-radius: 4px;
+  transition: width 0.5s ease;
+}
+
+.confidence-text {
+  font-size: 13px;
+  color: #94a3b8;
+  font-weight: 500;
+}
+
+/* Metrics Grid */
+.metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px;
+  margin-bottom: 24px;
+}
+
+.metric-card {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 18px;
+  background: rgba(15, 23, 42, 0.6);
+  border-radius: 14px;
+  border: 1px solid rgba(99, 102, 241, 0.15);
+}
+
+.metric-card svg {
+  color: #64748b;
+}
+
+.metric-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.metric-label {
+  font-size: 11px;
+  color: #64748b;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-weight: 600;
+}
+
+.metric-value {
+  font-size: 18px;
+  font-weight: 700;
+  color: #fff;
+}
+
+.metric-value.risk-low { color: #34d399; }
+.metric-value.risk-medium { color: #fbbf24; }
+.metric-value.risk-high { color: #f87171; }
+
+/* Reasoning Card */
+.reasoning-card {
+  background: rgba(15, 23, 42, 0.6);
+  border-radius: 14px;
+  border: 1px solid rgba(99, 102, 241, 0.15);
+  padding: 20px;
+  margin-bottom: 24px;
+}
+
+.reasoning-card h4 {
+  font-size: 14px;
+  font-weight: 700;
+  color: #a5b4fc;
+  margin-bottom: 12px;
+}
+
+.reasoning-card p {
+  font-size: 14px;
+  color: #94a3b8;
+  line-height: 1.7;
+  white-space: pre-wrap;
+}
+
+.reasoning-card.recommendation {
+  border-left: 3px solid #10b981;
+}
+
+.reasoning-card.recommendation h4 {
+  color: #34d399;
+}
+
+/* Urgency Card */
+.urgency-card {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 18px;
+  border-radius: 12px;
+  margin-bottom: 24px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.urgency-label {
+  color: #94a3b8;
+}
+
+.urgency-value {
+  font-weight: 700;
+}
+
+.urgency-critical {
+  background: rgba(239, 68, 68, 0.12);
+  border: 1px solid rgba(239, 68, 68, 0.3);
+  color: #f87171;
+}
+
+.urgency-high {
+  background: rgba(245, 158, 11, 0.12);
+  border: 1px solid rgba(245, 158, 11, 0.3);
+  color: #fbbf24;
+}
+
+.urgency-medium {
+  background: rgba(59, 130, 246, 0.12);
+  border: 1px solid rgba(59, 130, 246, 0.3);
+  color: #60a5fa;
+}
+
+.urgency-low {
+  background: rgba(16, 185, 129, 0.12);
+  border: 1px solid rgba(16, 185, 129, 0.3);
+  color: #34d399;
+}
+
+.urgency-none {
+  background: rgba(100, 116, 139, 0.12);
+  border: 1px solid rgba(100, 116, 139, 0.3);
+  color: #94a3b8;
+}
+
+/* Email Draft Card */
+.email-draft-card {
+  background: rgba(15, 23, 42, 0.6);
+  border-radius: 14px;
+  border: 1px solid rgba(99, 102, 241, 0.15);
+  padding: 20px;
+  margin-top: 24px;
+}
+
+.email-draft-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 18px;
+}
+
+.email-draft-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.email-draft-title svg {
+  color: #a5b4fc;
+}
+
+.email-draft-title h4 {
+  font-size: 14px;
+  font-weight: 700;
+  color: #fff;
+}
+
+.email-preview {
+  background: rgba(15, 23, 42, 0.8);
+  border-radius: 12px;
+  padding: 18px;
+  border: 1px solid rgba(99, 102, 241, 0.1);
+}
+
+.email-field {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 14px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid rgba(99, 102, 241, 0.1);
+}
+
+.field-label {
+  font-weight: 600;
+  color: #64748b;
+  min-width: 65px;
+}
+
+.field-value {
+  color: #e2e8f0;
+}
+
+.email-body-preview {
+  font-size: 13px;
+  color: #94a3b8;
+  line-height: 1.7;
+  white-space: pre-wrap;
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+.loading-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 300px;
+  gap: 16px;
+  color: #94a3b8;
+}
+
+.loading-container .spin {
+  animation: spin 1s linear infinite;
+  color: #6366f1;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@media (max-width: 768px) {
+  .metrics-grid {
+    grid-template-columns: 1fr;
+  }
+}

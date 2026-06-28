@@ -1,0 +1,252 @@
+.inventory-table-container {
+  background: transparent;
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.table-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 0 20px 0;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.search-box {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: rgba(15, 23, 42, 0.6);
+  border: 1px solid rgba(99, 102, 241, 0.2);
+  border-radius: 12px;
+  padding: 0 16px;
+  min-width: 320px;
+  transition: all 0.25s ease;
+}
+
+.search-box:focus-within {
+  border-color: #6366f1;
+  box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.15);
+}
+
+.search-box svg {
+  color: #64748b;
+}
+
+.search-box .input {
+  border: none;
+  background: transparent;
+  padding: 14px 0;
+  color: #fff;
+  font-size: 14px;
+}
+
+.search-box .input:focus {
+  border: none;
+  outline: none;
+}
+
+.search-box .input::placeholder {
+  color: #64748b;
+}
+
+.table-info {
+  font-size: 13px;
+  color: #64748b;
+  font-weight: 500;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+  border-radius: 12px;
+  border: 1px solid rgba(99, 102, 241, 0.15);
+}
+
+.inventory-table-container table {
+  min-width: 900px;
+  background: rgba(15, 23, 42, 0.4);
+}
+
+.inventory-table-container th {
+  cursor: pointer;
+  user-select: none;
+  white-space: nowrap;
+  transition: all 0.2s ease;
+  background: rgba(99, 102, 241, 0.1);
+  color: #a5b4fc;
+  font-weight: 600;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding: 16px 18px;
+  border-bottom: 1px solid rgba(99, 102, 241, 0.15);
+}
+
+.inventory-table-container th:hover {
+  background: rgba(99, 102, 241, 0.15);
+}
+
+.inventory-table-container td {
+  padding: 16px 18px;
+  border-bottom: 1px solid rgba(99, 102, 241, 0.08);
+  color: #e2e8f0;
+  font-size: 14px;
+}
+
+.inventory-table-container tr:hover td {
+  background: rgba(99, 102, 241, 0.05);
+}
+
+.sort-icon {
+  margin-left: 6px;
+  opacity: 1;
+  vertical-align: middle;
+}
+
+.sort-icon.inactive {
+  opacity: 0.3;
+}
+
+.sku-badge {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 13px;
+  padding: 6px 10px;
+  background: linear-gradient(135deg, rgba(99, 102, 241, 0.15) 0%, rgba(139, 92, 246, 0.1) 100%);
+  border-radius: 8px;
+  color: #a5b4fc;
+  border: 1px solid rgba(99, 102, 241, 0.2);
+  font-weight: 600;
+}
+
+.product-cell {
+  display: flex;
+  flex-direction: column;
+}
+
+.product-name {
+  font-weight: 600;
+  color: #fff;
+}
+
+.stock-cell {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.stock-value {
+  font-weight: 700;
+  min-width: 50px;
+  color: #fff;
+}
+
+.badge {
+  display: inline-flex;
+  padding: 5px 10px;
+  border-radius: 20px;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.badge-success {
+  background: rgba(16, 185, 129, 0.15);
+  color: #34d399;
+  border: 1px solid rgba(16, 185, 129, 0.3);
+}
+
+.badge-warning {
+  background: rgba(245, 158, 11, 0.15);
+  color: #fbbf24;
+  border: 1px solid rgba(245, 158, 11, 0.3);
+}
+
+.badge-danger {
+  background: rgba(239, 68, 68, 0.15);
+  color: #f87171;
+  border: 1px solid rgba(239, 68, 68, 0.3);
+}
+
+.action-buttons {
+  display: flex;
+  gap: 8px;
+  position: relative;
+  z-index: 10;
+}
+
+.btn-icon {
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  border: 1px solid rgba(99, 102, 241, 0.2);
+  background: rgba(15, 23, 42, 0.6);
+  color: #94a3b8;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  pointer-events: auto;
+  position: relative;
+  z-index: 11;
+}
+
+.btn-icon:hover {
+  background: rgba(99, 102, 241, 0.1);
+  color: #e2e8f0;
+  border-color: rgba(99, 102, 241, 0.4);
+}
+
+.btn-icon--primary {
+  border-color: rgba(99, 102, 241, 0.3);
+  color: #a5b4fc;
+}
+
+.btn-icon--primary:hover {
+  background: rgba(99, 102, 241, 0.2);
+  border-color: #6366f1;
+  color: #c4b5fd;
+  box-shadow: 0 4px 12px rgba(99, 102, 241, 0.3);
+}
+
+.empty-row {
+  text-align: center;
+  color: #64748b;
+  padding: 48px !important;
+}
+
+.badge-info {
+  background: rgba(59, 130, 246, 0.15);
+  color: #60a5fa;
+  border: 1px solid rgba(59, 130, 246, 0.3);
+}
+
+.btn-icon--danger {
+  border-color: rgba(239, 68, 68, 0.3);
+  color: #f87171;
+}
+
+.btn-icon--danger:hover {
+  background: rgba(239, 68, 68, 0.2);
+  border-color: #ef4444;
+  color: #fca5a5;
+  box-shadow: 0 4px 12px rgba(239, 68, 68, 0.3);
+}
+
+.days-value {
+  font-weight: 600;
+  color: #94a3b8;
+  font-size: 13px;
+}
+
+.row-risk {
+  background: rgba(239, 68, 68, 0.03);
+}
+
+@media (max-width: 768px) {
+  .search-box {
+    min-width: 100%;
+  }
+}
